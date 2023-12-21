@@ -1,0 +1,1514 @@
+[
+    {
+        "text": "PROJECT: ",
+        "font": "GlyphLessFont",
+        "size": 18.355588912963867,
+        "entities": []
+    },
+    {
+        "text": "SHEET ",
+        "font": "GlyphLessFont",
+        "size": 18.61470603942871,
+        "entities": []
+    },
+    {
+        "text": "QAYHAZLETON ",
+        "font": "GlyphLessFont",
+        "size": 30.695114135742188,
+        "entities": [
+            {
+                "entity": "QAYHAZLETON",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "— ",
+        "font": "GlyphLessFont",
+        "size": 29.432771682739258,
+        "entities": []
+    },
+    {
+        "text": "“ahttasscuncs ",
+        "font": "GlyphLessFont",
+        "size": 22.31922149658203,
+        "entities": []
+    },
+    {
+        "text": "- ",
+        "font": "GlyphLessFont",
+        "size": 5.0522050857543945,
+        "entities": []
+    },
+    {
+        "text": "LABORATORIES ",
+        "font": "GlyphLessFont",
+        "size": 12.89329719543457,
+        "entities": []
+    },
+    {
+        "text": "AMERICA, ",
+        "font": "GlyphLessFont",
+        "size": 11.908092498779297,
+        "entities": [
+            {
+                "entity": "AMERICA",
+                "label": "GPE"
+            }
+        ]
+    },
+    {
+        "text": "INC. ",
+        "font": "GlyphLessFont",
+        "size": 9.585895538330078,
+        "entities": []
+    },
+    {
+        "text": "UES ",
+        "font": "GlyphLessFont",
+        "size": 11.10718822479248,
+        "entities": [
+            {
+                "entity": "UES",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "peasecr ",
+        "font": "GlyphLessFont",
+        "size": 10.635608673095703,
+        "entities": []
+    },
+    {
+        "text": "sweet ",
+        "font": "GlyphLessFont",
+        "size": 10.218341827392578,
+        "entities": []
+    },
+    {
+        "text": "no. ",
+        "font": "GlyphLessFont",
+        "size": 9.327987670898438,
+        "entities": []
+    },
+    {
+        "text": "prosect ",
+        "font": "GlyphLessFont",
+        "size": 13.192627906799316,
+        "entities": []
+    },
+    {
+        "text": "no, ",
+        "font": "GlyphLessFont",
+        "size": 11.302546501159668,
+        "entities": []
+    },
+    {
+        "text": "642-149 ",
+        "font": "GlyphLessFont",
+        "size": 12.043513298034668,
+        "entities": [
+            {
+                "entity": "642-149",
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "STUDY ",
+        "font": "GlyphLessFont",
+        "size": 10.5541410446167,
+        "entities": []
+    },
+    {
+        "text": "TITLE ",
+        "font": "GlyphLessFont",
+        "size": 10.557570457458496,
+        "entities": [
+            {
+                "entity": "TITLE",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "& ",
+        "font": "GlyphLessFont",
+        "size": 7.8664870262146,
+        "entities": []
+    },
+    {
+        "text": "PROPOSAL ",
+        "font": "GlyphLessFont",
+        "size": 10.87481689453125,
+        "entities": []
+    },
+    {
+        "text": "WOMOER ",
+        "font": "GlyphLessFont",
+        "size": 10.80230712890625,
+        "entities": [
+            {
+                "entity": "WOMOER",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "[212 ",
+        "font": "GlyphLessFont",
+        "size": 11.773629188537598,
+        "entities": [
+            {
+                "entity": "212",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "| ",
+        "font": "GlyphLessFont",
+        "size": 11.124892234802246,
+        "entities": []
+    },
+    {
+        "text": "PROIECT ",
+        "font": "GlyphLessFont",
+        "size": 10.986684799194336,
+        "entities": [
+            {
+                "entity": "PROIECT",
+                "label": "PERSON"
+            }
+        ]
+    },
+    {
+        "text": "COORDINATOR ",
+        "font": "GlyphLessFont",
+        "size": 11.217920303344727,
+        "entities": []
+    },
+    {
+        "text": "D ",
+        "font": "GlyphLessFont",
+        "size": 8.617430686950684,
+        "entities": []
+    },
+    {
+        "text": "—Serqca ",
+        "font": "GlyphLessFont",
+        "size": 11.401257514953613,
+        "entities": [
+            {
+                "entity": "Serqca",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "14-Day Single ",
+        "font": "GlyphLessFont",
+        "size": 12.330921173095703,
+        "entities": [
+            {
+                "entity": "14-Day",
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "Dose ",
+        "font": "GlyphLessFont",
+        "size": 11.773629188537598,
+        "entities": []
+    },
+    {
+        "text": "Subacute ",
+        "font": "GlyphLessFont",
+        "size": 12.630030632019043,
+        "entities": []
+    },
+    {
+        "text": "Toxicity ",
+        "font": "GlyphLessFont",
+        "size": 12.738470077514648,
+        "entities": []
+    },
+    {
+        "text": "Study ",
+        "font": "GlyphLessFont",
+        "size": 12.186664581298828,
+        "entities": []
+    },
+    {
+        "text": "stonarune:_{ ",
+        "font": "GlyphLessFont",
+        "size": 12.342446327209473,
+        "entities": []
+    },
+    {
+        "text": "Me ",
+        "font": "GlyphLessFont",
+        "size": 12.52066421508789,
+        "entities": []
+    },
+    {
+        "text": "A ",
+        "font": "GlyphLessFont",
+        "size": 9.950461387634277,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 40.75946807861328,
+        "entities": []
+    },
+    {
+        "text": "are ",
+        "font": "GlyphLessFont",
+        "size": 11.398959159851074,
+        "entities": []
+    },
+    {
+        "text": "rssueo._December ",
+        "font": "GlyphLessFont",
+        "size": 12.539283752441406,
+        "entities": []
+    },
+    {
+        "text": "13, ",
+        "font": "GlyphLessFont",
+        "size": 11.131172180175781,
+        "entities": [
+            {
+                "entity": "13",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "1983 ",
+        "font": "GlyphLessFont",
+        "size": 11.772895812988281,
+        "entities": [
+            {
+                "entity": "1983",
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 5.699594974517822,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 4.653557777404785,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 40.73092269897461,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 2.6382532119750977,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 40.75946807861328,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 40.75946807861328,
+        "entities": []
+    },
+    {
+        "text": "TEST ",
+        "font": "GlyphLessFont",
+        "size": 10.109663009643555,
+        "entities": []
+    },
+    {
+        "text": "WATERTAL(S) ",
+        "font": "GlyphLessFont",
+        "size": 10.771461486816406,
+        "entities": [
+            {
+                "entity": "WATERTAL(S",
+                "label": "GPE"
+            }
+        ]
+    },
+    {
+        "text": "ToT ",
+        "font": "GlyphLessFont",
+        "size": 9.63438606262207,
+        "entities": [
+            {
+                "entity": "ToT",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "0-3) ",
+        "font": "GlyphLessFont",
+        "size": 11.994657516479492,
+        "entities": [
+            {
+                "entity": "0",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "RECEIPT ",
+        "font": "GlyphLessFont",
+        "size": 10.50058650970459,
+        "entities": []
+    },
+    {
+        "text": "DATE(S) ",
+        "font": "GlyphLessFont",
+        "size": 10.359637260437012,
+        "entities": []
+    },
+    {
+        "text": "DHHS) ",
+        "font": "GlyphLessFont",
+        "size": 15.977602005004883,
+        "entities": [
+            {
+                "entity": "DHHS",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "8121 ",
+        "font": "GlyphLessFont",
+        "size": 11.79947280883789,
+        "entities": [
+            {
+                "entity": "8121",
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "11/18/83 ",
+        "font": "GlyphLessFont",
+        "size": 12.228776931762695,
+        "entities": [
+            {
+                "entity": "11/18/83",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "21,017 ",
+        "font": "GlyphLessFont",
+        "size": 11.939208984375,
+        "entities": [
+            {
+                "entity": "21,017",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "‘PERFORMING ",
+        "font": "GlyphLessFont",
+        "size": 10.313698768615723,
+        "entities": []
+    },
+    {
+        "text": "DEPARTMENTS ",
+        "font": "GlyphLessFont",
+        "size": 10.861583709716797,
+        "entities": [
+            {
+                "entity": "DEPARTMENTS",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "(4 ",
+        "font": "GlyphLessFont",
+        "size": 8.794775009155273,
+        "entities": [
+            {
+                "entity": "4",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "COPIES ",
+        "font": "GlyphLessFont",
+        "size": 10.299370765686035,
+        "entities": []
+    },
+    {
+        "text": "EACH ",
+        "font": "GlyphLessFont",
+        "size": 10.104493141174316,
+        "entities": []
+    },
+    {
+        "text": "DIRECTOR) ",
+        "font": "GlyphLessFont",
+        "size": 10.554970741271973,
+        "entities": [
+            {
+                "entity": "DIRECTOR",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "‘ORIGINAL ",
+        "font": "GlyphLessFont",
+        "size": 10.104493141174316,
+        "entities": [
+            {
+                "entity": "ORIGINAL",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "SIGNED ",
+        "font": "GlyphLessFont",
+        "size": 10.461566925048828,
+        "entities": [
+            {
+                "entity": "SIGNED",
+                "label": "PERSON"
+            }
+        ]
+    },
+    {
+        "text": "PROJECT ",
+        "font": "GlyphLessFont",
+        "size": 10.498638153076172,
+        "entities": [
+            {
+                "entity": "PROJECT",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "SHEETS ",
+        "font": "GlyphLessFont",
+        "size": 10.45917797088623,
+        "entities": [
+            {
+                "entity": "SHEETS",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "TO ",
+        "font": "GlyphLessFont",
+        "size": 9.243208885192871,
+        "entities": []
+    },
+    {
+        "text": "PSO ",
+        "font": "GlyphLessFont",
+        "size": 9.63438606262207,
+        "entities": []
+    },
+    {
+        "text": "Acute/Dermal ",
+        "font": "GlyphLessFont",
+        "size": 12.389421463012695,
+        "entities": [
+            {
+                "entity": "Acute/Dermal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Toxicology ",
+        "font": "GlyphLessFont",
+        "size": 12.493691444396973,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 11.634018898010254,
+        "entities": []
+    },
+    {
+        "text": "EEXED ",
+        "font": "GlyphLessFont",
+        "size": 10.218341827392578,
+        "entities": []
+    },
+    {
+        "text": "DISTRIBUTION: ",
+        "font": "GlyphLessFont",
+        "size": 10.693761825561523,
+        "entities": []
+    },
+    {
+        "text": "(1 ",
+        "font": "GlyphLessFont",
+        "size": 7.866022109985352,
+        "entities": [
+            {
+                "entity": "1",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "COPY ",
+        "font": "GlyphLessFont",
+        "size": 9.871838569641113,
+        "entities": [
+            {
+                "entity": "COPY",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "TO ",
+        "font": "GlyphLessFont",
+        "size": 8.794425010681152,
+        "entities": []
+    },
+    {
+        "text": "EACH) ",
+        "font": "GlyphLessFont",
+        "size": 10.030963897705078,
+        "entities": []
+    },
+    {
+        "text": "DIR. ",
+        "font": "GlyphLessFont",
+        "size": 8.06032657623291,
+        "entities": [
+            {
+                "entity": "DIR",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "OF ",
+        "font": "GlyphLessFont",
+        "size": 8.794425010681152,
+        "entities": []
+    },
+    {
+        "text": "LIFE ",
+        "font": "GlyphLessFont",
+        "size": 9.139507293701172,
+        "entities": []
+    },
+    {
+        "text": "SCIENCES. ",
+        "font": "GlyphLessFont",
+        "size": 9.87321949005127,
+        "entities": []
+    },
+    {
+        "text": "LAB ",
+        "font": "GlyphLessFont",
+        "size": 9.633994102478027,
+        "entities": []
+    },
+    {
+        "text": "ANIMAL ",
+        "font": "GlyphLessFont",
+        "size": 10.461142539978027,
+        "entities": []
+    },
+    {
+        "text": "MEDICINE ",
+        "font": "GlyphLessFont",
+        "size": 10.652043342590332,
+        "entities": []
+    },
+    {
+        "text": "PROTECTIVE ",
+        "font": "GlyphLessFont",
+        "size": 10.673562049865723,
+        "entities": []
+    },
+    {
+        "text": "PRECAUTIONS ",
+        "font": "GlyphLessFont",
+        "size": 10.8611478805542,
+        "entities": []
+    },
+    {
+        "text": "REQUIRED! ",
+        "font": "GlyphLessFont",
+        "size": 10.218341827392578,
+        "entities": []
+    },
+    {
+        "text": "MEALTH ",
+        "font": "GlyphLessFont",
+        "size": 10.301605224609375,
+        "entities": []
+    },
+    {
+        "text": "SERVICES ",
+        "font": "GlyphLessFont",
+        "size": 10.650763511657715,
+        "entities": []
+    },
+    {
+        "text": "(QUALITY ",
+        "font": "GlyphLessFont",
+        "size": 9.897808074951172,
+        "entities": [
+            {
+                "entity": "QUALITY",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "ASSURANCE ",
+        "font": "GlyphLessFont",
+        "size": 10.662701606750488,
+        "entities": [
+            {
+                "entity": "ASSURANCE",
+                "label": "GPE"
+            }
+        ]
+    },
+    {
+        "text": "COMPOUND, ",
+        "font": "GlyphLessFont",
+        "size": 10.554550170898438,
+        "entities": []
+    },
+    {
+        "text": "COMPOUND ",
+        "font": "GlyphLessFont",
+        "size": 11.24066162109375,
+        "entities": []
+    },
+    {
+        "text": "PREP ",
+        "font": "GlyphLessFont",
+        "size": 9.877360343933105,
+        "entities": []
+    },
+    {
+        "text": "(TOx) ",
+        "font": "GlyphLessFont",
+        "size": 9.228569030761719,
+        "entities": []
+    },
+    {
+        "text": "CconTRacTs ",
+        "font": "GlyphLessFont",
+        "size": 10.167525291442871,
+        "entities": []
+    },
+    {
+        "text": "‘MAZAROOUS ",
+        "font": "GlyphLessFont",
+        "size": 10.965033531188965,
+        "entities": []
+    },
+    {
+        "text": "conPouND, ",
+        "font": "GlyphLessFont",
+        "size": 11.193473815917969,
+        "entities": [
+            {
+                "entity": "conPouND",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "[SCIENTIFIC ",
+        "font": "GlyphLessFont",
+        "size": 9.733707427978516,
+        "entities": []
+    },
+    {
+        "text": "RES ",
+        "font": "GlyphLessFont",
+        "size": 9.327987670898438,
+        "entities": [
+            {
+                "entity": "RES",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "(TOXI ",
+        "font": "GlyphLessFont",
+        "size": 9.228569030761719,
+        "entities": []
+    },
+    {
+        "text": "Aponsor ",
+        "font": "GlyphLessFont",
+        "size": 12.971016883850098,
+        "entities": []
+    },
+    {
+        "text": "EXPLOSIVE ",
+        "font": "GlyphLessFont",
+        "size": 10.662701606750488,
+        "entities": []
+    },
+    {
+        "text": "CARCINOGEN ",
+        "font": "GlyphLessFont",
+        "size": 10.774618148803711,
+        "entities": [
+            {
+                "entity": "CARCINOGEN",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "(osHA) ",
+        "font": "GlyphLessFont",
+        "size": 10.139547348022461,
+        "entities": []
+    },
+    {
+        "text": "FOLLOW ",
+        "font": "GlyphLessFont",
+        "size": 10.45875358581543,
+        "entities": []
+    },
+    {
+        "text": "DEPARTHENT ",
+        "font": "GlyphLessFont",
+        "size": 10.868465423583984,
+        "entities": [
+            {
+                "entity": "DEPARTHENT",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "AND ",
+        "font": "GlyphLessFont",
+        "size": 9.930357933044434,
+        "entities": []
+    },
+    {
+        "text": "COMPANY ",
+        "font": "GlyphLessFont",
+        "size": 10.498210906982422,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 16.35870361328125,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 11.634018898010254,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 24.308502197265625,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 10.331191062927246,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 27.921663284301758,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 10.256057739257812,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 8.750412940979004,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 24.27666664123535,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 12.280752182006836,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 10.256057739257812,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 7.252127647399902,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 11.667219161987305,
+        "entities": []
+    },
+    {
+        "text": "ruamuaie ",
+        "font": "GlyphLessFont",
+        "size": 12.978477478027344,
+        "entities": []
+    },
+    {
+        "text": "carcrnacen ",
+        "font": "GlyphLessFont",
+        "size": 12.437503814697266,
+        "entities": []
+    },
+    {
+        "text": "(orveny ",
+        "font": "GlyphLessFont",
+        "size": 11.962072372436523,
+        "entities": []
+    },
+    {
+        "text": "—____ ",
+        "font": "GlyphLessFont",
+        "size": 18.862468719482422,
+        "entities": []
+    },
+    {
+        "text": "| ",
+        "font": "GlyphLessFont",
+        "size": 10.405851364135742,
+        "entities": []
+    },
+    {
+        "text": "SAFETY ",
+        "font": "GlyphLessFont",
+        "size": 12.07699203491211,
+        "entities": []
+    },
+    {
+        "text": "fun ",
+        "font": "GlyphLessFont",
+        "size": 17.14389419555664,
+        "entities": []
+    },
+    {
+        "text": "Qa ",
+        "font": "GlyphLessFont",
+        "size": 12.437503814697266,
+        "entities": []
+    },
+    {
+        "text": "Lia ",
+        "font": "GlyphLessFont",
+        "size": 15.106273651123047,
+        "entities": []
+    },
+    {
+        "text": "—————_} ",
+        "font": "GlyphLessFont",
+        "size": 11.467337608337402,
+        "entities": []
+    },
+    {
+        "text": "sToRAGE ",
+        "font": "GlyphLessFont",
+        "size": 8.458414077758789,
+        "entities": []
+    },
+    {
+        "text": "conorrions ",
+        "font": "GlyphLessFont",
+        "size": 8.794598579406738,
+        "entities": []
+    },
+    {
+        "text": "AYSTCAL ",
+        "font": "GlyphLessFont",
+        "size": 7.988109111785889,
+        "entities": [
+            {
+                "entity": "AYSTCAL",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "DESCRIPTION: ",
+        "font": "GlyphLessFont",
+        "size": 8.449575424194336,
+        "entities": [
+            {
+                "entity": "DESCRIPTION",
+                "label": "PERSON"
+            }
+        ]
+    },
+    {
+        "text": "Cistone ",
+        "font": "GlyphLessFont",
+        "size": 8.903804779052734,
+        "entities": []
+    },
+    {
+        "text": "iw ",
+        "font": "GlyphLessFont",
+        "size": 6.4227294921875,
+        "entities": []
+    },
+    {
+        "text": "onan ",
+        "font": "GlyphLessFont",
+        "size": 8.250038146972656,
+        "entities": [
+            {
+                "entity": "onan",
+                "label": "GPE"
+            }
+        ]
+    },
+    {
+        "text": "Doessicaron ",
+        "font": "GlyphLessFont",
+        "size": 9.499251365661621,
+        "entities": [
+            {
+                "entity": "Doessicaron",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "‘soup ",
+        "font": "GlyphLessFont",
+        "size": 8.911110877990723,
+        "entities": []
+    },
+    {
+        "text": "—X ",
+        "font": "GlyphLessFont",
+        "size": 5.833604335784912,
+        "entities": []
+    },
+    {
+        "text": "—_——— ",
+        "font": "GlyphLessFont",
+        "size": 14.090428352355957,
+        "entities": []
+    },
+    {
+        "text": "| ",
+        "font": "GlyphLessFont",
+        "size": 11.667407989501953,
+        "entities": []
+    },
+    {
+        "text": "Qrernicenaton ",
+        "font": "GlyphLessFont",
+        "size": 9.861135482788086,
+        "entities": [
+            {
+                "entity": "Qrernicenaton",
+                "label": "PERSON"
+            }
+        ]
+    },
+    {
+        "text": "8°C ",
+        "font": "GlyphLessFont",
+        "size": 9.67411994934082,
+        "entities": [
+            {
+                "entity": "8",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "Oirreezen ",
+        "font": "GlyphLessFont",
+        "size": 9.406580924987793,
+        "entities": [
+            {
+                "entity": "Oirreezen",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "utquo ",
+        "font": "GlyphLessFont",
+        "size": 13.047379493713379,
+        "entities": []
+    },
+    {
+        "text": "Brown ",
+        "font": "GlyphLessFont",
+        "size": 15.574577331542969,
+        "entities": []
+    },
+    {
+        "text": "canon ",
+        "font": "GlyphLessFont",
+        "size": 12.015637397766113,
+        "entities": []
+    },
+    {
+        "text": "CGroow ",
+        "font": "GlyphLessFont",
+        "size": 13.128862380981445,
+        "entities": [
+            {
+                "entity": "CGroow",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "rewrenarune ",
+        "font": "GlyphLessFont",
+        "size": 12.541647911071777,
+        "entities": []
+    },
+    {
+        "text": "Corer ",
+        "font": "GlyphLessFont",
+        "size": 14.718292236328125,
+        "entities": []
+    },
+    {
+        "text": "presunze9 ",
+        "font": "GlyphLessFont",
+        "size": 14.397553443908691,
+        "entities": []
+    },
+    {
+        "text": "Cisrecin. ",
+        "font": "GlyphLessFont",
+        "size": 12.058585166931152,
+        "entities": [
+            {
+                "entity": "Cisrecin",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "wsraucrions ",
+        "font": "GlyphLessFont",
+        "size": 12.64395809173584,
+        "entities": []
+    },
+    {
+        "text": "wnite ",
+        "font": "GlyphLessFont",
+        "size": 11.578758239746094,
+        "entities": []
+    },
+    {
+        "text": "cosine ",
+        "font": "GlyphLessFont",
+        "size": 12.07699203491211,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 9.181723594665527,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 7.198600769042969,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 24.5645809173584,
+        "entities": []
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 40.816280364990234,
+        "entities": []
+    },
+    {
+        "text": "[APERINENTAL ",
+        "font": "GlyphLessFont",
+        "size": 10.349035263061523,
+        "entities": []
+    },
+    {
+        "text": "PROCEDURES ",
+        "font": "GlyphLessFont",
+        "size": 10.229330062866211,
+        "entities": []
+    },
+    {
+        "text": "to ",
+        "font": "GlyphLessFont",
+        "size": 8.968852043151855,
+        "entities": []
+    },
+    {
+        "text": "be ",
+        "font": "GlyphLessFont",
+        "size": 9.319170951843262,
+        "entities": []
+    },
+    {
+        "text": "performed ",
+        "font": "GlyphLessFont",
+        "size": 10.985081672668457,
+        "entities": []
+    },
+    {
+        "text": "in ",
+        "font": "GlyphLessFont",
+        "size": 8.968852043151855,
+        "entities": []
+    },
+    {
+        "text": "Acute/Dermal ",
+        "font": "GlyphLessFont",
+        "size": 11.081557273864746,
+        "entities": [
+            {
+                "entity": "Acute/Dermal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Toxicology, ",
+        "font": "GlyphLessFont",
+        "size": 11.124902725219727,
+        "entities": []
+    },
+    {
+        "text": "building ",
+        "font": "GlyphLessFont",
+        "size": 10.937460899353027,
+        "entities": []
+    },
+    {
+        "text": "18. ",
+        "font": "GlyphLessFont",
+        "size": 9.390053749084473,
+        "entities": [
+            {
+                "entity": "18",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "This ",
+        "font": "GlyphLessFont",
+        "size": 11.1973295211792,
+        "entities": []
+    },
+    {
+        "text": "project ",
+        "font": "GlyphLessFont",
+        "size": 12.162150382995605,
+        "entities": []
+    },
+    {
+        "text": "sheet ",
+        "font": "GlyphLessFont",
+        "size": 11.798993110656738,
+        "entities": []
+    },
+    {
+        "text": "is ",
+        "font": "GlyphLessFont",
+        "size": 10.027339935302734,
+        "entities": []
+    },
+    {
+        "text": "issued ",
+        "font": "GlyphLessFont",
+        "size": 11.798993110656738,
+        "entities": []
+    },
+    {
+        "text": "to ",
+        "font": "GlyphLessFont",
+        "size": 10.027339935302734,
+        "entities": []
+    },
+    {
+        "text": "correct Project ",
+        "font": "GlyphLessFont",
+        "size": 12.162150382995605,
+        "entities": []
+    },
+    {
+        "text": "Sheet ",
+        "font": "GlyphLessFont",
+        "size": 11.961738586425781,
+        "entities": []
+    },
+    {
+        "text": "which ",
+        "font": "GlyphLessFont",
+        "size": 11.798993110656738,
+        "entities": []
+    },
+    {
+        "text": "was ",
+        "font": "GlyphLessFont",
+        "size": 11.037102699279785,
+        "entities": []
+    },
+    {
+        "text": "issued ",
+        "font": "GlyphLessFont",
+        "size": 11.800725936889648,
+        "entities": []
+    },
+    {
+        "text": "on ",
+        "font": "GlyphLessFont",
+        "size": 10.027339935302734,
+        "entities": []
+    },
+    {
+        "text": "December ",
+        "font": "GlyphLessFont",
+        "size": 12.229218482971191,
+        "entities": [
+            {
+                "entity": "December",
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "6, ",
+        "font": "GlyphLessFont",
+        "size": 10.405838012695312,
+        "entities": [
+            {
+                "entity": "6",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "1983 ",
+        "font": "GlyphLessFont",
+        "size": 11.39902400970459,
+        "entities": [
+            {
+                "entity": "1983",
+                "label": "DATE"
+            }
+        ]
+    },
+    {
+        "text": "to ",
+        "font": "GlyphLessFont",
+        "size": 10.405838012695312,
+        "entities": []
+    },
+    {
+        "text": "Project ",
+        "font": "GlyphLessFont",
+        "size": 12.1632719039917,
+        "entities": []
+    },
+    {
+        "text": "Sheet ",
+        "font": "GlyphLessFont",
+        "size": 11.798993110656738,
+        "entities": []
+    },
+    {
+        "text": "No. ",
+        "font": "GlyphLessFont",
+        "size": 10.498210906982422,
+        "entities": []
+    },
+    {
+        "text": "3 ",
+        "font": "GlyphLessFont",
+        "size": 8.343154907226562,
+        "entities": [
+            {
+                "entity": "3",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "instead ",
+        "font": "GlyphLessFont",
+        "size": 12.042381286621094,
+        "entities": []
+    },
+    {
+        "text": "of ",
+        "font": "GlyphLessFont",
+        "size": 10.77103328704834,
+        "entities": []
+    },
+    {
+        "text": "2. ",
+        "font": "GlyphLessFont",
+        "size": 9.633994102478027,
+        "entities": [
+            {
+                "entity": "2",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "Material ",
+        "font": "GlyphLessFont",
+        "size": 12.122300148010254,
+        "entities": []
+    },
+    {
+        "text": "Safety ",
+        "font": "GlyphLessFont",
+        "size": 12.07835865020752,
+        "entities": []
+    },
+    {
+        "text": "Data ",
+        "font": "GlyphLessFont",
+        "size": 11.39902400970459,
+        "entities": []
+    },
+    {
+        "text": "Sheet ",
+        "font": "GlyphLessFont",
+        "size": 11.961738586425781,
+        "entities": []
+    },
+    {
+        "text": "is ",
+        "font": "GlyphLessFont",
+        "size": 9.633994102478027,
+        "entities": []
+    },
+    {
+        "text": "attached ",
+        "font": "GlyphLessFont",
+        "size": 12.228289604187012,
+        "entities": []
+    },
+    {
+        "text": "to ",
+        "font": "GlyphLessFont",
+        "size": 10.027339935302734,
+        "entities": []
+    },
+    {
+        "text": "Project ",
+        "font": "GlyphLessFont",
+        "size": 12.162150382995605,
+        "entities": []
+    },
+    {
+        "text": "Sheet ",
+        "font": "GlyphLessFont",
+        "size": 11.961738586425781,
+        "entities": []
+    },
+    {
+        "text": "1. ",
+        "font": "GlyphLessFont",
+        "size": 9.223644256591797,
+        "entities": [
+            {
+                "entity": "1",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "21009800 ",
+        "font": "GlyphLessFont",
+        "size": 13.619503021240234,
+        "entities": [
+            {
+                "entity": "21009800",
+                "label": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "  ",
+        "font": "GlyphLessFont",
+        "size": 47.91892623901367,
+        "entities": []
+    },
+    {
+        "text": " ",
+        "font": "GlyphLessFont",
+        "size": 47.130619049072266,
+        "entities": []
+    }
+]
